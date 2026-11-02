@@ -16,7 +16,7 @@
 
 
 
-\## 📌 Project Overview
+\## Project Overview
 
 This repository contains a blockchain-based decentralized voting application (DApp) developed using Solidity, Remix IDE, Ganache, and Shell Scripting. 
 
@@ -30,7 +30,7 @@ Traditional electronic and paper-based voting systems rely on centralized author
 
 
 
-\## 🛠️ Tech Stack \& Prerequisites
+\## Tech Stack \& Prerequisites
 
 \* \*\*Smart Contract Language:\*\* Solidity (`^0.8.0`)
 
@@ -48,7 +48,7 @@ Traditional electronic and paper-based voting systems rely on centralized author
 
 
 
-\## 🏗️ Smart Contract Architecture (`Voting.sol`)
+\## Smart Contract Architecture (`Voting.sol`)
 
 The `Voting.sol` smart contract enforces election rules programmatically:
 
@@ -66,7 +66,7 @@ The `Voting.sol` smart contract enforces election rules programmatically:
 
 
 
-\## 🚀 How to Run and Test
+\## How to Run and Test
 
 
 
