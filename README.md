@@ -1,3 +1,5 @@
+Author: Gabriel C. Longo
+
 \# Decentralized Voting and Election System
 
 
