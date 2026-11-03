@@ -1,5 +1,6 @@
 #!/bin/bash
 # Shell Script to simulate compilation and deployment environment for Voting Smart Contract
+# Author: Gabriel C. Longo
 
 echo "============================================="
 echo " Starting Blockchain Voting Environment "
